@@ -1,1 +1,1 @@
-# sun12yyds-Python-artboard-v1.2
+# sun12yyds Python artboard v1.2
